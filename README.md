@@ -14,3 +14,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 06 - Conditionals - AND, OR, NOT EQUAL; Greather than, Less than, Greather equal, Less equal
 
 07 - Switch - Switch allows to check different conditions
+
+08 - For - Is a control structure which loops the specified times
