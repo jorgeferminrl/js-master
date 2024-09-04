@@ -16,3 +16,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 07 - Switch - Switch allows to check different conditions
 
 08 - For - Is a control structure which loops the specified times
+
+09 - While - Is a loop which will be executed while a condition is true
