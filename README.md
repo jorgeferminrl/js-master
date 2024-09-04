@@ -18,3 +18,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 08 - For - Is a control structure which loops the specified times
 
 09 - While - Is a loop which will be executed while a condition is true, do while is also explained, as well as break instruction
+
+10 - Windows - Alert, confirmation, and prompt windows
