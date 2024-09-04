@@ -12,3 +12,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 05 - Operators and data type - Explanation of JS operators and data types using variables
 
 06 - Conditionals - AND, OR, NOT EQUAL; Greather than, Less than, Greather equal, Less equal
+
+07 - Switch - Switch allows to check different conditions
