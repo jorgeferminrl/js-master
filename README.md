@@ -8,3 +8,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 03 - let & var - Local and global variables
 
 04 - Constants - Like a variable, but its value cannot change
+
+05 - Operators and data type - Explanation of JS operators and data types using variables
