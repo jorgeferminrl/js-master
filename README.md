@@ -20,3 +20,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 09 - While - Is a loop which will be executed while a condition is true, do while is also explained, as well as break instruction
 
 10 - Windows - Alert, confirmation, and prompt windows
+
+11 - Excercise 1 - Validate two numbers
