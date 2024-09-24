@@ -22,3 +22,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 10 - Windows - Alert, confirmation, and prompt windows
 
 11 - Excercise 1 - Validate two numbers
+
+12.- Excersise 2 - Using a loop, display the sum and average of the numbers entered until a negative number is entered and then display the result
