@@ -23,4 +23,6 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 
 11 - Excercise 1 - Validate two numbers
 
-12.- Excersise 2 - Using a loop, display the sum and average of the numbers entered until a negative number is entered and then display the result
+12.- Excercise 2 - Using a loop, display the sum and average of the numbers entered until a negative number is entered and then display the result
+
+13.- Excercise 3 - This program shows all numbers between two numbers introduced by the user
