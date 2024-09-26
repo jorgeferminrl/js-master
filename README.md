@@ -26,3 +26,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 12.- Excercise 2 - Using a loop, display the sum and average of the numbers entered until a negative number is entered and then display the result
 
 13.- Excercise 3 - This program shows all numbers between two numbers introduced by the user
+
+14.- Excercise 4 - Show all odd numbers between two numbers introduced by user
