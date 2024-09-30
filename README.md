@@ -28,3 +28,7 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 13.- Excercise 3 - This program shows all numbers between two numbers introduced by the user
 
 14.- Excercise 4 - Show all odd numbers between two numbers introduced by user
+
+15.- Show all divisor numbers of an introduced nunmber in a prompt
+
+16.- Program that tells us if a number is even or odd
