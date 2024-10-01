@@ -34,3 +34,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 16.- Program that tells us if a number is even or odd
 
 17.- Multiplication table of the introduced number
+
+18.- Calculator
