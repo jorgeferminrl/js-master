@@ -32,3 +32,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 15.- Show all divisor numbers of an introduced nunmber in a prompt
 
 16.- Program that tells us if a number is even or odd
+
+17.- Multiplication table of the introduced number
