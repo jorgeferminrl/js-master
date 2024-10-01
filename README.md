@@ -37,4 +37,4 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 
 18.- Calculator
 
-19.- Functions
+19.- Functions - Including function parameters
