@@ -36,3 +36,5 @@ JS Master Learning Journey: JS, jQuery, Angular, NodeJS
 17.- Multiplication table of the introduced number
 
 18.- Calculator
+
+19.- Functions
